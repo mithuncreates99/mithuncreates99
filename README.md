@@ -17,3 +17,5 @@ Outside class I build small apps. These are the ones I'd point you to.
 ## Contact
 
 - Portfolio: [mithuncreates99.github.io](https://mithuncreates99.github.io)
+- LinkedIn: [Mithun Kumar](https://www.linkedin.com/in/mithun-kumar-9416462a0/)
+- Email: [mithunv7778@gmail.com](mailto:mithunv7778@gmail.com)
